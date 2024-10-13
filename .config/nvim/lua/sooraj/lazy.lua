@@ -27,6 +27,8 @@ require("lazy").setup({
     -- import your plugins
     { import = "sooraj.plugins" },
     { import = "sooraj.plugins.basic" },
+    { import = "sooraj.plugins.tools" },
+    { import = "sooraj.plugins.language" },
   },
   -- Configure any other settings here. See the documentation for more details.
   -- colorscheme that will be used when installing plugins.
