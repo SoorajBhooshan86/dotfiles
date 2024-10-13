@@ -1,0 +1,1 @@
+require("sooraj.core")
