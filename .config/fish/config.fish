@@ -3,3 +3,4 @@ if status is-interactive
 end
 fish_add_path /Users/sooraj/flutter/bin/
 starship init fish | source
+fzf --fish | source
